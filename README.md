@@ -6,4 +6,11 @@ An acloudguru project that uses Python and NASA data to find meteor landing site
 
 This project requires Python 3 and the requests package.
 
-`python find_meteors.py`
+First, install pipenv. Then:
+
+```
+pip install
+pipenv run "`python find_meteors.py"
+```
+
+
